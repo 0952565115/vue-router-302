@@ -8,9 +8,7 @@ const CoffeeShopDetail = ref([
     "name": "Nine One Coffee",
     "review": "เป็นร้านกาแฟในเชียงใหม่ที่เจ้าถิ่นพามาเพราะเป็นลูกค้าประจำค่ะ ร้านนี้ขึ้นชื่อเรื่องของ “Drip Coffee” มาก ๆ มีเมล็ดกาแฟหลากหลายของไทยที่เค้าจะ Blend เองให้ลูกค้าตามใจชอบเลย ถ้าเลือกไม่ถูก บาริสต้าที่นี่ก็พร้อมให้คำแนะนำแบบละเอียดยิบ แถมอัธยาศัยดี ยิ้มแย้มแจ่มใสด้วยค่ะ สำหรับวันนี้ลองเป็นกาแฟชื่อ “Fruity Floral” ที่เค้าดริปแบบ เก็บน้ำแรกของการดริปไว้ให้เราดื่มด้วย ถือเป็นอีกหนึ่งร้านกาแฟดี ๆ ในนิมมานที่น่ามาลองค่ะ",
     "coverimage": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/377121513_854568835832443_4484750541489743961_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEKSkApGNRlAUToJxhXYVCy2CgTlGQtVknYKBOUZC1WSQO0AKaRDypMx11ZgRJgpLvEV2zgUn-KdjIF8NYiAaMB&_nc_ohc=TSbgpLaS_QUAX_FZr4R&_nc_ht=scontent.fbkk8-4.fna&oh=03_AdTfd2hFHMSxeFkwLim8ylfc_UD5pL2X4Abqcf_KmUrD6w&oe=652BEC45",
-    "price": "1900 $",
-    "latitude": 18.799182,
-    "longitude": 98.967171,
+    "price": "1900 $"
   }
 ])
 

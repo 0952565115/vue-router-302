@@ -8,9 +8,7 @@ const CoffeeShopDetail = ref([
     "name": "Sukhum Craft スクンクラフト",
     "review": "เป็นหนึ่งในร้านกาแฟเชียงใหม่แนว Specialty ที่ได้ทั้งอารมณ์คราฟต์ มินิมอล และกลิ่นอายกาแฟสดเชียงใหม่ผสมญี่ปุ่นนิด ๆ ไปแบบเต็มเปี่ยม ดูน่ารัก ตัวกาแฟมีความผสมผสานทั้งของไทยและของนอก ทำได้น่าสนใจ ส่วนตัวแนะนำ “Americano” ตัวร้านอาจจะอยู่ไกลหน่อย แต่น่าแวะสุด ๆ แถมราคายังเป็นมิตรอีกด้วย",
     "coverimage": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/377122712_3446093835702557_9040405550870029248_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHuQ4DZUJ5NaYCEDgmIFuRc9GXvsC7Lcyv0Ze-wLstzK0JfZJOY4OKYKtDrm752AwN6rG0hDEpfQHMvvSOn1TOu&_nc_ohc=I08xGuD3ga0AX-ZE6Be&_nc_ht=scontent.fbkk8-4.fna&oh=03_AdQ3CEZosO51vzsjzccrj0njPuNFmVIQMsqEA9DtzB8BOw&oe=652BD7D1",
-    "price": "1500 $",
-    "latitude": 18.799182,
-    "longitude": 98.967171,
+    "price": "1500 $"
   }
 ])
 

@@ -8,9 +8,7 @@ const CoffeeShopDetail = ref([
     "name": "di BOSCO COFFEE SPECIALIST",
     "review": "เป็นร้านกาแฟในเชียงใหม่ดี ๆ อีกร้านหนึ่งที่แม่ริม ใครมาแถวนี้แล้วอยากหาร้านที่เน้นกาแฟจริงจัง แนะนำร้านนี้เลยครับ ในร้านมีเมนูเครื่องดื่มและอาหารไว้บริการ เมล็ดกาแฟในร้านมีให้เลือกเยอะมาก ๆ เยอะจนตกใจ เรียกได้ว่าใครชอบดื่มแบบไหน มีให้เลือกครบทุกแนว วันนี้สั่งเป็นเมล็ดพิเศษอย่าง “May Flower” กับตัวปกติมาลอง ตัวพิเศษจะราคาสูงหน่อย แต่รสชาติดี ถูกใจมาก ๆ ครับ",
     "coverimage": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/377124405_845751270533460_2060598025526403964_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFYHRG540bGoZdhHynUrdCvE1D2kYNE2iQTUPaRg0TaJCwuNgQIQTN0Nj6MxmK1A22P6H2gkhpO0OqW4JzAvJtB&_nc_ohc=alG10MBBdmEAX927vr4&_nc_ht=scontent.fbkk8-4.fna&oh=03_AdROAzkAOj9mEoqcR4eZ8DbqvnvgA_1TLDf6LbNC-kWDDQ&oe=652BDD05",
-    "price": "2000 $",
-    "latitude": 18.799182,
-    "longitude": 98.967171,
+    "price": "2000 $"
   }
 ])
 

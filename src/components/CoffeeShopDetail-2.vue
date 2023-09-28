@@ -8,9 +8,7 @@ const CoffeeShopDetail = ref([
     "name": "RISTR8TO",
     "review": "ร้านกาแฟเชียงใหม่ดี ๆ ย่านถนนนิมาน ร้านนี้อยู่หน้านิมมานซอยสาม มีลูกค้าเยอะตลอดทั้งวัน ทั้งชาวไทยและชาวต่างชาติ มีเมนูให้เลือกเยอะ มีเมล็ดกาแฟให้เลือกเยอะเช่นกัน วันนี้ได้สั่งเป็น “Dirty” ทางร้านผสมนมได้โอเคมาก ไม่หวาน มัน ๆ กำลังดี ช็อตกาแฟหอม ๆ ใส่ลงไปเข้ากันมาก สายกาแฟไม่ควรพลาดร้านนี้ ทั้งเรื่องรสชาติและบรรยากาศ ควรมาครับ",
     "coverimage": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/377122709_994115998539684_3112291651868365063_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHmeB_NoSDiRFXlx_TqeAaAyvRieiRBKETK9GJ6JEEoRMcyKmZHrohXWo-dbdza-6jRB4sdmd9OWu0MqH5iXgYm&_nc_ohc=rtajCFoM960AX_jE87L&_nc_ht=scontent.fbkk8-4.fna&oh=03_AdRZdSEPhjeaErraclcS7DPQE0FL96kmgfNTJEU2DOnlPw&oe=652BE18E",
-    "price": "1500 $",
-    "latitude": 18.799182,
-    "longitude": 98.967171,
+    "price": "1500 $"
   }
 ])
 

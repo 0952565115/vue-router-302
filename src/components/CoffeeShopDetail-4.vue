@@ -8,9 +8,7 @@ const CoffeeShopDetail = ref([
     "name": "LOOPER & CO.",
     "review": "ร้านกาแฟ & ค็อกเทลบาร์ที่มีเมนูเครื่องดื่ม signature ให้เลือกเยอะ ซึ่งเมนูที่ไม่ควรพลาดคือกาแฟแบบคลาสสิกที่หอมกาแฟชัดเจนอย่าง “ลาเต้” หรือกาแฟพิเศษที่มีลูกเล่นแพรวพราวอย่าง “Umechu Tonic” ที่ได้ทั้ง Coldbrew, Plum และ Tonic ผสมรวมกันอย่างลงตัว ส่วนในช่วงกลางคืนทางร้านยังปรับโทนเป็นบาร์ และยังมาพร้อมเครื่องดื่มหลากหลายให้ได้เลือกอีกด้วยครับ",
     "coverimage": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.15752-9/377122428_688862336450689_6270943685738234442_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEE8-BOK5NCw7_ab-ufdi4vRuKhqZ_eW-xG4qGpn95b7MHXVW8GU-Y6LQD6JtLf41gghZryDwJfbCEKOJFAuO7W&_nc_ohc=pvXBEKmysQIAX8kE7UA&_nc_ht=scontent.fbkk8-4.fna&oh=03_AdSTGZ62eAupGlnzeFkMgyIUTRQH047hQ3vLoZCpFr1jqw&oe=652BE109",
-    "price": "1600 $",
-    "latitude": 18.799182,
-    "longitude": 98.967171,
+    "price": "1600 $"
   }
 ])
 

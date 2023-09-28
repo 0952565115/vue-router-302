@@ -8,9 +8,7 @@ const CoffeeShopDetail = ref([
     "name": "The Sax Music House",
     "review": "ร้าน sax ตั้งอยู่ที่โครงการวันนิมมาน ใครมาแถวนี้แล้วอยากหาร้านที่เหมาะแก่การนั่งจิบกาแฟเบาๆ แนะนำร้านนี้เลย ในร้านตกแต่งแนวคลาสสิค บรรยากาศดี มีดนตรีสดให้ฟัง และยังเป็นดนตรีสากลอีกด้วย ใครที่จะมาพูดคุยสังสรรค์ก็ถือว่าดีเลย",
     "coverimage": "https://img.wongnai.com/p/1920x0/2021/01/25/d89985104ddf41f48fc2852591138e60.jpg",
-    "price": "1700 $",
-    "latitude": 18.799182,
-    "longitude": 98.967171,
+    "price": "1700 $"
   }
 ])
 
@@ -53,7 +51,7 @@ hr {
   margin-right: 300px;
 }
 .container-all {
-  padding: 10px 25px;
+  padding: 20px 25px;
 }
 
 .container {
